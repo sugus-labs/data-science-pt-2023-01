@@ -14,12 +14,13 @@ Schedule
 Structure of the course:
 ------------------------  
 
-### RAMP UP
-3 weeks 
+### RAMP UP  
+
+4 weeks 
 
 * MON 2023/01/30 - Presentation and learning Git
 * WED 2023/02/01 - Cloning in Git and learning Markdown
-* FRI 2023/02/03 - Introduction to programming and Python basics I and II
+* FRI 2023/02/03 - Introduction to Linux, programming and Python basics I and II
 * SAT 2023/02/04 - Questions with the TAs about Git, Markdown and Python basics
 * MON 2023/02/06 - More Python basics II
 * WED 2023/02/08 - Flow controls
