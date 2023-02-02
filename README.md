@@ -18,8 +18,8 @@ Structure of the course:
 3 weeks 
 
 * MON 2023/01/30 - Presentation and learning Git
-* WED 2023/02/01 - Markdown and Introduction to programming
-* FRI 2023/02/03 - Python basics I and Python basics II
+* WED 2023/02/01 - Cloning in Git and learning Markdown
+* FRI 2023/02/03 - Introduction to programming and Python basics I and II
 * SAT 2023/02/04 - Questions with the TAs about Git, Markdown and Python basics
 * MON 2023/02/06 - More Python basics II
 * WED 2023/02/08 - Flow controls
