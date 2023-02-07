@@ -22,8 +22,8 @@ Structure of the course:
 * WED 2023/02/01 - Cloning in Git and learning Markdown
 * FRI 2023/02/03 - Introduction to Linux, programming and Python basics I and II
 * SAT 2023/02/04 - Questions with the TAs about Git, Markdown and Python basics
-* MON 2023/02/06 - More Python basics II
-* WED 2023/02/08 - Flow controls
+* MON 2023/02/08 - More Python basics II
+* WED 2023/02/09 - Flow controls
 * FRI 2023/02/10 - Flow controls and exercises Python basics 
 * SAT 2023/02/11 - Exercises Flow controls
 * MON 2023/02/13 - Collections
